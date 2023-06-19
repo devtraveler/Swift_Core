@@ -16,12 +16,12 @@ print(clientAge!)
 
 // Sample 3 - declaring multiple variables in a single line
 
-var clientName = "John", clientCountry = "Germany", clientLang = "de", clientSex = "male"
+var clientName = "John", clientCountry = "Germany", clientLang = "de", clientGender = "male"
 
 print(clientName)
 print(clientCountry)
 print(clientLang)
-print(clientSex)
+print(clientGender)
 
 
 // Sample 4 The value of variable can be changed
